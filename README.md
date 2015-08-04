@@ -1,2 +1,2 @@
 # Baymax
-This is test frame work for BD.
+This is test framework for BD.
